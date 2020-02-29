@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7897a76-6cf7-415e-b166-a901c0ccc562" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y6nkn9V1hosWB7mSsb3yLCQS1S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AboutImage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\prideandproperty\AboutImage" />
+      <recent name="C:\xampp\htdocs\prideandproperty\SellImage" />
+      <recent name="C:\xampp\htdocs\prideandproperty\BuyImage" />
+      <recent name="C:\xampp\htdocs\prideandproperty\RentalImage" />
+      <recent name="C:\xampp\htdocs\prideandproperty\Homepageimage" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7897a76-6cf7-415e-b166-a901c0ccc562" name="Default Changelist" comment="" />
+      <created>1582272056896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582272056896</updated>
+      <workItem from="1582272058115" duration="2013000" />
+      <workItem from="1582275133960" duration="819000" />
+      <workItem from="1582367412824" duration="30391000" />
+      <workItem from="1582529394765" duration="5938000" />
+      <workItem from="1582537416256" duration="12089000" />
+      <workItem from="1582871750116" duration="2949000" />
+      <workItem from="1582974039760" duration="471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582571400983">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1582571400983" />
+    <state x="518" y="308" key="NewPhpFileDialog" timestamp="1582579814635">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="518" y="308" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1582579814635" />
+    <state x="378" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1582276758212">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="378" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582276758212" />
+  </component>
+</project>
